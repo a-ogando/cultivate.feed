@@ -1012,3 +1012,8 @@ padding-bottom: 5%; }
 .credits a:hover {
   color: #fff;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ }
